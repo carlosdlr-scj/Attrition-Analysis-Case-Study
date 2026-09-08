@@ -1,6 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title="Salifort Motors | Employee Retention",page_icon="📊",layout="wide")
 st.title("Salifort Motors | Employee Retention")
+st.markdown("By CARLOS DE LA RE.")
 st.subheader("From employee data to retention decisions")
 st.markdown("This dashboard analyzes employee attrition and builds a classification model to identify employee profiles with a higher likelihood of leaving.")
 st.info("**Business questions**\n1. **What is the extent of employee attrition, and which employee groups experience the highest turnover?**\n2. **Which employee characteristics and workplace conditions are most strongly associated with employees leaving?**\n3. **What employee profiles appear to be at higher risk of attrition?**\n4. **Can a predictive model help Salifort Motors identify employees who are likely to leave and support proactive retention efforts?**")
