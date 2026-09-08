@@ -1,0 +1,2 @@
+rows_original,exact_duplicates,missing_cells,invalid_domain_rows,rows_final,tenure_q1,tenure_q3,tenure_lower,tenure_upper,tenure_outliers
+14999,3008,0,0,11991,3.0,4.0,1.5,5.5,824
